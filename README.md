@@ -1,2 +1,2 @@
 # DS-LinkedList
-Sample for various code showing Linked List in C
+Sample of various operations in Linked List in C
